@@ -1,4 +1,18 @@
 # 3'aQTL-pipe
+<br>
+<br>
+<br>
+<br>
+> Just see "Using population-scale transcriptomic and genomic data to map 3′ UTR alternative polyadenylation quantitative trait loci, https://doi.org/10.1016/j.xpro.2022.101566." as ref.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 [![Github Release](https://img.shields.io/badge/release-v1.1-brightgreen)](https://github.com/3UTR/3aQTL-pipe)
 [![python Release](https://img.shields.io/badge/python-3.8-brightgreen)](https://www.python.org/downloads/)
